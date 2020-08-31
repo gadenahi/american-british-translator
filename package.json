@@ -8,6 +8,9 @@
     "test": "mocha --require @babel/register --recursive --exit --ui tdd tests/"
   },
   "dependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/register": "^7.9.0",
     "body-parser": "^1.19.0",
     "chai": "^4.2.0",
     "cors": "^2.8.5",
@@ -17,10 +20,5 @@
     "mocha": "^6.2.3",
     "nodemon": "^2.0.3"
   },
-  "license": "MIT",
-  "devDependencies": {
-    "@babel/core": "^7.11.1",
-    "@babel/preset-env": "^7.11.0",
-    "@babel/register": "^7.10.5"
-  }
+  "license": "MIT"
 }

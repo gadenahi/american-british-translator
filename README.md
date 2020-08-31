@@ -1,7 +1,7 @@
 **freeCodeCamp** - Quality Assurance 5: American / British English Translator
 ------
 
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-project-american-british-english-translator)](https://repl.it/github/freeCodeCamp/boilerplate-project-american-british-english-translator)
+[![Run on Repl.it](https://highlevelwingedcloudcomputing--five-nine.repl.co/)]
 
 ### User stories:
 
