@@ -1,8 +1,7 @@
 **freeCodeCamp** - Quality Assurance 5: American / British English Translator
 ------
 
-[![Run on Repl.it](https://highlevelwingedcloudcomputing--five-nine.repl.co/)]
-
+[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-project-american-british-english-translator)](https://highlevelwingedcloudcomputing--five-nine.repl.co/)
 ### User stories:
 
 1. I can enter a simple sentence into the text area and select whether to translate to British or American English from the dropdown menu.
